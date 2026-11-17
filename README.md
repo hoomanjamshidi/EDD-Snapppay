@@ -14,6 +14,10 @@
   <img alt="license" src="https://img.shields.io/badge/license-GPLv2%2B-green" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/hoomanjamshidi/EDD-Snapppay/raw/main/dist/snapppay-edd-gateway.zip"><img alt="Download ZIP" src="https://img.shields.io/badge/%E2%AC%87%20Download-Plugin%20ZIP%20v1.0.3-00a0e9?style=for-the-badge" /></a>
+</p>
+
 افزونه‌ای متن‌باز که روش پرداخت **اسنپ‌پی (SnappPay)** را به صفحه تسویه‌حساب [Easy Digital Downloads](https://easydigitaldownloads.com/) اضافه می‌کند تا مشتریان بتوانند محصولات دانلودی را **در ۴ قسط ماهانه، بدون سود، چک و ضامن** بخرند.
 
 این افزونه از روی [افزونه رسمی ووکامرس اسنپ‌پی](https://snapppay.ir) برای EDD پورت شده است و عمداً پیشوندهای متفاوتی (`snapppay_edd_` / `SNAPP_PAY_EDD_`) دارد تا اگر هر دو افزونه روی یک سایت فعال بودند، تداخلی پیش نیاید.
@@ -68,7 +72,11 @@
 ## دانلود
 
 <p align="center">
-  <a href="https://github.com/hoomanjamshidi/EDD-Snapppay/raw/main/dist/snapppay-edd-gateway.zip"><b>⬇️ دانلود مستقیم افزونه (نسخه 1.0.3 - فایل ZIP)</b></a>
+  <a href="https://github.com/hoomanjamshidi/EDD-Snapppay/raw/main/dist/snapppay-edd-gateway.zip"><img alt="Download ZIP" src="https://img.shields.io/badge/%E2%AC%87%20Download-Plugin%20ZIP%20v1.0.3-00a0e9?style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hoomanjamshidi/EDD-Snapppay/raw/main/dist/snapppay-edd-gateway.zip">دانلود مستقیم فایل ZIP افزونه (نسخه 1.0.3)</a>
 </p>
 
 ## نصب
